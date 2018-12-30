@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+d:\학교\홍\컴퓨터그래픽스\b511235유다정_lab0\lab0 - 복사본\lab0\childview.cpp(67): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMyDialog.cpp
+  Lab0.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+  Lab0.vcxproj -> D:\학교\홍\컴퓨터그래픽스\B511235유다정_Lab0\Lab0 - 복사본\x64\Debug\Lab0.exe
